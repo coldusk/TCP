@@ -1,1 +1,3 @@
-# TCP
+Server在WIN上用，先启动
+Client在虚拟机上用终端启动
+记得修改IP和关闭防火墙
